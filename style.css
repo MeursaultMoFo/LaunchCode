@@ -2,8 +2,14 @@ body {
   color: white;
   background-color: black;
   font-family: "Sacramento", cursive;
-  font-size: 32px;
+  font-size: 100px;
   margin-top: 10%;
   margin-left: 20%;
   margin-right: 20%;
+}
+
+.hello span {
+  color: #fee;
+  text-shadow: 0 -4px 20px, 0 0 2px, 0 0 1em #ff4444, 0 0 0.5em #ff4444,
+    0 0 0.1em #ff4444, 0 1px 3px #000;
 }
